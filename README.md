@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @Neoloopy
-- 👀 I’m interested in doing things
-- 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on Basic AI programming
-
+:chestnut: New User Text (NUT) :chestnut:
 
 <!---
 Neoloopy/Neoloopy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
