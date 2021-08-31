@@ -3,17 +3,16 @@
 # Hi, I'm NeoLoopy! I bet you're wondering why you took a little looksie here owo?
 >Too late to understand that part, even I'm confused about it 
 
-### :izakaya_lantern: Programming Languages
 
-![Python]({https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white}) `Main`
 
-![OpenCV]({https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white}) `Main`
 
-### :repeat_one: IDE 
+### :izakaya_lantern: Programming Languages | :repeat_one: IDE 
 
-![SublimeText]({https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important}) `Currently In use`
+![Python]({https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white}) `Main` | ![SublimeText]({https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important}) `Currently In use`
+------------ | -------------
+![OpenCV]({https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white}) `Main` | ![VisualStudio]({https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white})
 
-![VisualStudio]({https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white})
+
  
 ### :mortar_board: Studying
 
@@ -40,6 +39,8 @@
 ### :rice_scene: Socials 
 
 ![Discord]({https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white}) `NeoLoopy#8489`
+
+
 
 <!---
 Neoloopy/Neoloopy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
