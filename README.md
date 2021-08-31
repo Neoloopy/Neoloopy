@@ -3,20 +3,19 @@
 # Hi, I'm NeoLoopy! I bet you're wondering why you took a little looksie here owo?
 >Too late to understand that part, even I'm confused about it 
 
-:izakaya_lantern: ### Programming Languages
+### :izakaya_lantern: Programming Languages
 
 ![Python]({https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white}) `Main`
 
 ![OpenCV]({https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white}) `Main`
 
-
-:repeat_one: ### IDE
+### :repeat_one: IDE 
 
 ![SublimeText]({https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important}) `Currently In use`
 
 ![VisualStudio]({https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white})
-
-:mortar_board: ### Studying
+ 
+### :mortar_board: Studying
 
 ![Cpp]({https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white}) `Learning`
 
@@ -32,14 +31,13 @@
 
 ![RasberryPi]({https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white}) `Will study in the future`
 
-:bento: ### Arts and Design
+### :bento: Arts and Design
 
 ![Krita]({https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B})
 
 ![Audacity]({https://img.shields.io/badge/Audacity-0000CC?style=for-the-badge&logo=audacity&logoColor=white})
 
-
-:rice_scene: ### Socials 
+### :rice_scene: Socials 
 
 ![Discord]({https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white}) `NeoLoopy#8489`
 
