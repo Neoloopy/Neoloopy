@@ -16,30 +16,21 @@
  
 ### :mortar_board: Studying
 
-![Cpp]({https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white}) `Learning`
+![Cpp]({https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white}) `Learning` | ![Unity]({https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white}) `Learning` |  ![MongoDB]({https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white}) `Will study in the future` | ![Laravel]({https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white}) `Will study in the future`
+------------ | ------------- | ------------- | -------------
+![TensorFlow]({https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white}) `Will study in the future` | ![Arduino]({https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white}) `Will study in the future` | ![Arduino]({https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white}) `Will study in the future` | ![RasberryPi]({https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white}) `Will study in the future`
 
-![Unity]({https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white}) `Learning`
-
-![MongoDB]({https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white}) `Will study in the future`
-
-![Laravel]({https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white}) `Will study in the future`
-
-![TensorFlow]({https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white}) `Will study in the future`
-
-![Arduino]({https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white}) `Will study in the future`
-
-![RasberryPi]({https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white}) `Will study in the future`
 
 ### :bento: Arts and Design
 
-![Krita]({https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B})
+![Krita]({https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B}) | ![Audacity]({https://img.shields.io/badge/Audacity-0000CC?style=for-the-badge&logo=audacity&logoColor=white}) 
+------------ | -------------
 
-![Audacity]({https://img.shields.io/badge/Audacity-0000CC?style=for-the-badge&logo=audacity&logoColor=white})
 
 ### :rice_scene: Socials 
 
-![Discord]({https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white}) `NeoLoopy#8489`
-
+![Discord]({https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white}) `NeoLoopy#8489` |
+------------ |
 
 
 <!---
