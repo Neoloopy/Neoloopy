@@ -1,6 +1,10 @@
+![Background](https://github.com/Neoloopy/Neoloopy/blob/main/Images/Background.png)
 # Hi, I'm NeoLoopy! 
 
 > A student learning computer science
+
+> Welcome to my profile!
+
  <details>
  <summary> About me </summary>
   <p>https://www.youtube.com/watch?v=dQw4w9WgXcQ</p>
