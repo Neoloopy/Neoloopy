@@ -1,7 +1,11 @@
 # Hi, I'm NeoLoopy! 
 
 > A student learning computer science
-  
+ <details>
+ <summary> About me </summary>
+  <p>https://www.youtube.com/watch?v=dQw4w9WgXcQ</p>
+ </details>
+ 
 :izakaya_lantern: Programming Languages | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![Cpp](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ------------ | ------------- | -------------
 :repeat_one: IDE | ![SublimeText](https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important) | ![VisualStudio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white) 
